@@ -1,0 +1,11 @@
+{
+    "require": {
+        "composer/composer": "^2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "ox4D\\PluginHooks\\": "PluginHook/",
+            "ox4D\\Src\\": "Src/"
+        }
+    }
+}
